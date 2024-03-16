@@ -37,7 +37,6 @@ class WebsiteClient
      * $params['email'] = 'test@qq.com' // 网站管理员邮箱。【可填】
      * $params['version'] = '7.25.5' // 网站版本号。【可填】
      * $params['end_date'] = '2024-08-01' // 网站结束日期。0表示无限期【可填】
-     * $params['admin_url'] = 'https://www.test.com/admin' // 后台链接地址。【可填】
      * @return array
      */
     public function update(string $url, array $params): array

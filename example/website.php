@@ -13,8 +13,7 @@ $res = $client->addInfo($url);
 //    'title' => 'test',
 //    'email' => 'test@qq.com',
 //    'version' => '7.25.5',
-//    'end_date' => '2024-08-01',
-//    'admin_url' => $url . '/admin2'
+//    'end_date' => '2024-08-01'
 //]);
 
 //$res = $client->findChild($url);
